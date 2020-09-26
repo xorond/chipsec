@@ -17,6 +17,7 @@ Projects That Include CHIPSEC
 -----------------------------
 
  * [Linux UEFI Validation (LUV)](https://01.org/linux-uefi-validation)
+ * [ArchStrike](https://archstrike.org)
  * [BlackArch Linux](https://www.blackarch.org/index.html)
 
 Contact Us
